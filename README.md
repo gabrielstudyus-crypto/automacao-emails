@@ -5,9 +5,9 @@ O projeto utiliza de Python, CSV e .env para enviar mensagens diretamente para o
 ## O programa é capaz de:
 1. Leitura de contatos a partir de um arquivo CSV.
 2. Envio em massa ou individual de mensagens por email.
-3. Logging de toda ação executada, salvando erros e sucessos.
+3. Registrar toda ação executada pelo programa, salvando erros e sucessos.
 
-## Aviso: Vale-se dizer que o projeto foi feito puramente para fins de estudo e desenvolvimento, não sendo recomendado para uso real.
+**Aviso: Vale-se dizer que o projeto foi feito puramente para fins de estudo e desenvolvimento, não sendo recomendado para uso real.**
 
 ## Caso deseje testar, siga as seguintes instruções:
 1. Coloque os nomes e emails dos contatos no arquivo `contatos.csv`.
