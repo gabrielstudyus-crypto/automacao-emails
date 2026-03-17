@@ -1,0 +1,5 @@
+Olá {nome},
+
+Esse é um email automático feito em Python, obrigado pela leitura!
+
+Abraços!
