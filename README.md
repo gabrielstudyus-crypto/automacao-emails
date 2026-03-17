@@ -13,3 +13,6 @@ O projeto utiliza Python, CSV e .env para enviar mensagens diretamente para os e
 1. Coloque os nomes e emails dos contatos no arquivo `contatos.csv`.
 2. Crie uma senha de aplicativo no seu email para o programa utilizá-lo nas mensagens, depois configure o `senha.env` com a senha de programa. **Não compartilhe o `arquivo .env`, já que terá sua senha.**
 3. Configure o arquivo `mensagem.txt` para a mensagem que você desejar, usando `{nome}` para personalizar o destinatário.
+
+## Melhorias futuras
+A principal melhoria que desejo fazer é uma interface para interação e HTML nos emails, além de deixar ainda mais automatizado.
