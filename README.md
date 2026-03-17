@@ -15,4 +15,4 @@ O projeto utiliza Python, CSV e .env para enviar mensagens diretamente para os e
 3. Configure o arquivo `mensagem.txt` para a mensagem que você desejar, usando `{nome}` para personalizar o destinatário.
 
 ## Melhorias futuras
-A principal melhoria que desejo fazer é uma interface para o usuário e HTML nos emails que são enviados, além de automatizar ainda mais.
+A principal melhoria que desejo fazer é uma interface para o usuário e HTML nos emails que são enviados, além de automatizar ainda mais. A organização do repositório também precisará ser atualizada.
